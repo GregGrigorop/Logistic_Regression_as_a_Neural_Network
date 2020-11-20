@@ -10,3 +10,5 @@ More concretely, the architecture of the learning algorithm is as follows:
    4) Generation of predictions
 
 Eventually I combined all the separate functions that deal with the aforementioned tasks into a main model function and further analysed the results.
+
+Hint: The initial train and test datasets are not included as they are property of Coursera.
