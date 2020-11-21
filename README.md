@@ -11,4 +11,12 @@ More concretely, the architecture of the learning algorithm is as follows:
 
 Eventually I combined all the separate functions that deal with the aforementioned tasks into a main model function and further analysed the results.
 
+<ins>How to run</ins>
+
+- Install the `numpy` module.
+- Install the `matplotlib.pyplot` submodule.
+- Install the `h5py` package.
+- Install the `PIL` package.
+- Install the `scipy.ndimage` submodule.
+
 Hint: The initial train and test datasets are not included as they are property of Coursera.
