@@ -14,9 +14,9 @@ Eventually I combined all the separate functions that deal with the aforemention
 <ins>How to run</ins>
 
 - Install the `numpy` module.
-- Install the `matplotlib.pyplot` submodule.
+- Install the `matplotlib` module.
 - Install the `h5py` package.
 - Install the `PIL` package.
-- Install the `scipy.ndimage` submodule.
+- Install the `scipy` module.
 
 Hint: The initial train and test datasets are not included as they are property of Coursera.
