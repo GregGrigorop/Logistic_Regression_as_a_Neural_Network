@@ -13,10 +13,10 @@ Eventually I combined all the separate functions that deal with the aforemention
 
 <ins>How to run</ins>
 
-- Install the `numpy` module.
-- Install the `matplotlib` module.
-- Install the `h5py` package.
-- Install the `PIL` package.
-- Install the `scipy` module.
+- Install the `numpy` module. [(numpy link)](https://numpy.org/)
+- Install the `matplotlib` module. [(matplotlib link)](http://matplotlib.org)
+- Install the `h5py` package. [(pypi link)](https://pypi.org/project/h5py/)
+- Install the `PIL` package. [(PIL info)](http://www.pythonware.com/products/pil/)
+- Install the `scipy` module. [(scipy link)](https://www.scipy.org/)
 
 Hint: The initial train and test datasets are not included as they are property of Coursera.
